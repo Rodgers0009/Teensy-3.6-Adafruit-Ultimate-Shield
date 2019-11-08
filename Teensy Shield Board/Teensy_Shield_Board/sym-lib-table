@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Zener_Diode)(type Legacy)(uri "E:/OneDrive - The University Of Newcastle/Uni/Uni Work/Sixth Year/First Semester/MECH4841a/KiCad Libraries/Zener_Diode.lib")(options "")(descr ""))
+  (lib (name Teensy_Shield_Board-rescue)(type Legacy)(uri ${KIPRJMOD}/Teensy_Shield_Board-rescue.lib)(options "")(descr ""))
+)

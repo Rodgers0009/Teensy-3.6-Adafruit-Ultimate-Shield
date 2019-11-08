@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name MCP2515_Module)(type KiCad)(uri "E:/OneDrive - The University Of Newcastle/Uni/Uni Work/Sixth Year/First Semester/MECH4841a/KiCad Libraries/MCP2515_Module.pretty")(options "")(descr ""))
+  (lib (name Adafruit_Ultimate_GPS_V3)(type KiCad)(uri "E:/OneDrive - The University Of Newcastle/Uni/Uni Work/Sixth Year/First Semester/MECH4841a/KiCad Libraries/Adafruit_Ultimate_GPS.pretty")(options "")(descr ""))
+)
